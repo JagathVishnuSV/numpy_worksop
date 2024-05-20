@@ -9,4 +9,12 @@ e=[3]
 # use these lists to create another list which will look like the list output in line 2
 
 # use append method to do this.
+out=[]
+out.append(a)
+out.append(b)
+
+d.append(e)
+c.append(d)
+out.append(c)
+print(out)
 
